@@ -1,6 +1,7 @@
 //Atandra Mahalder
 //Personal Assignment
 //07/19/2020
+//Basic program to map your distance from a set of given points
 
 #include<stdio.h>
 #include<stdlib.h>
