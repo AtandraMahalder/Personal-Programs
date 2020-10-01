@@ -1,5 +1,9 @@
 #/usr/bin/env python3
-#Converts an integer to a roman number for ranges upto 4000
+
+#Atandra Mahalder
+#09/08/2020
+
+#Convert an integer to a roman number for ranges upto 4000
 #Range can be increased by adding symbols after M
 
 #Enter integer
